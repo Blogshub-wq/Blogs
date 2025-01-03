@@ -20,7 +20,7 @@ st.write("""
 - **Space Tech Advancements:** Private companies push the boundaries of space exploration in 2025. [Read more](https://example.com).
 - **5G Expansion:** How global infrastructure upgrades are accelerating connectivity. [Read more](https://example.com).
 - **Green Tech Innovations:** Exploring sustainable technologies and their impact on reducing carbon footprints. [Read more](https://example.com).
-- **Cybersecurity Trends:** Top strategies to safeguard against evolving cyber threats. [Read more](https://example.com).
+- **Cybersecurity Trends:** Top strategies to safeguard against evolving cyber threats. [Read more](https://bloggers.streamlit.app/).
 - **Augmented Reality Boom:** How AR is transforming industries like retail, gaming, and healthcare. [Read more](https://example.com).
 - **Edge Computing Revolution:** Bringing computing closer to the data source for faster and efficient processing. [Read more](https://example.com).
 - **The Future of Biotech:** Integrating AI and biotechnology for revolutionary healthcare solutions. [Read more](https://example.com).
